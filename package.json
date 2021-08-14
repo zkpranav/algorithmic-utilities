@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zkpranav/algorithmic-utilities/issues"
   },
-  "homepage": "https://github.com/zkpranav/algorithmic-utilities#readme"
+  "homepage": "https://github.com/zkpranav/algorithmic-utilities#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
 }
